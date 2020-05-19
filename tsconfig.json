@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES2019",
+    "esModuleInterop": true,
+    "lib": ["esnext"]
+  },
+  "files": ["./@types/lib.d.ts"]
+}
